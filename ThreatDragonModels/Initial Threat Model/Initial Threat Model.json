@@ -28,7 +28,7 @@
             },
             "attrs": {
               "text": {
-                "text": "User"
+                "text": "Client"
               },
               "body": {
                 "stroke": "#333333",
@@ -42,7 +42,7 @@
             "id": "7cc4ca22-1ac4-4b66-a9fa-ccdbfa859566",
             "data": {
               "type": "tm.Actor",
-              "name": "User",
+              "name": "Client",
               "description": "",
               "outOfScope": false,
               "reasonOutOfScope": "",
@@ -91,7 +91,7 @@
           {
             "position": {
               "x": 138.74999999999972,
-              "y": 530
+              "y": 510
             },
             "size": {
               "width": 120,
@@ -268,8 +268,14 @@
             },
             "target": {
               "x": 190,
-              "y": 530
-            }
+              "y": 510
+            },
+            "vertices": [
+              {
+                "x": 194,
+                "y": 490
+              }
+            ]
           },
           {
             "position": {
